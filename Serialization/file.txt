@@ -1,0 +1,1 @@
+[{"item_id":1,"company_id":455,"item_name":"Jam","item_unit":"bottle"},{"item_id":14,"company_id":56,"item_name":"pichku","item_unit":"packet"},{"item_id":51,"company_id":765,"item_name":"Chutni","item_unit":"bottle"},{"item_id":13,"company_id":67,"item_name":"Curd","item_unit":"bottle"}]
